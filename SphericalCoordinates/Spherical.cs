@@ -1,3 +1,4 @@
+//Copyright Warren Harding 2025.
 using System.Numerics;
 
 namespace SphericalCoordinates
